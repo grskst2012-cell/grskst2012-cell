@@ -15,7 +15,3 @@ Status of each project (what is verified on real hardware and what is not) is st
 ## Stack
 
 Kotlin, Jetpack Compose, Material 3, GitHub Actions for builds.
-
-## Contact
-
-Open an issue in the relevant repository.
